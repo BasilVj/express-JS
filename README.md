@@ -18,7 +18,7 @@ To get started, clone the repository:
 1. Clone the repository:
 ```bash
 
-   git clone https://github.com/your-repo/express-typescript-server.git
+   git clone https://github.com/BasilVj/express-JS
    ```
 
 2. Install the dependencies:
